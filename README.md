@@ -1,5 +1,6 @@
 Android testing samples
 ===================================
+This is bonarmada's fork to android-testing, all changes will be submitted to googlesamples/android-testing
 
 A collection of samples demonstrating different frameworks and techniques for automated testing.
 
