@@ -3,6 +3,7 @@ Android testing samples
 This is bonarmada's fork to android-testing, all changes will be submitted to googlesamples/android-testing
 
 I know this should work, I am trying this single commit branch vs multiple commit branch then merging into master
+THIS IS WORKING I SHOULD DISBALE FAST-FORWARD
 
 A collection of samples demonstrating different frameworks and techniques for automated testing.
 
